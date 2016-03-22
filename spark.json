@@ -1,0 +1,7 @@
+{
+  "name": "ChainableLED",
+  "author": "MarxGonzalez <gonzalezvalverde@gmail.com>",
+  "license": "GNU",
+  "version": "0.0.1",
+  "description": "A library for Grove Chainable LED"
+}
